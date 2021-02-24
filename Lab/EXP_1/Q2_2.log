@@ -1,0 +1,26 @@
+Circuit: * Z:\home\solomon\Analog lab\EXP_1\Q2_2.asc
+
+WARNING: Less than two connections to node U1:U1:UA:TEST.  This node is used by E:U1:U1:UA:TEST.
+WARNING: Less than two connections to node U1:U1:UA:VTH_DIFF.  This node is used by E:U1:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U1:U1:UB:TEST.  This node is used by E:U1:U1:UB:TEST.
+WARNING: Less than two connections to node U1:U1:UB:VTH_DIFF.  This node is used by E:U1:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U1:U1:NA1.  This node is used by R:U1:U1:DA1.
+WARNING: Less than two connections to node U1:U1:NB1.  This node is used by R:U1:U1:DB1.
+WARNING: Less than two connections to node U1:U1:NO1.  This node is used by R:U1:U1:DO1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Jan 26 15:53:28 2021
+Total elapsed time: 0.093 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 83
+traniter = 74
+tranpoints = 38
+accept = 38
+rejected = 0
+matrix size = 124
+fillins = 4
+solver = Normal
+
